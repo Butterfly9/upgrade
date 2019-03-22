@@ -1,3 +1,4 @@
+'''
 import os
 import requests
 
@@ -14,3 +15,4 @@ print("File deleted")
 os.rename("make_pdf.py", "../website/make_pdf.py")
 print("File copied")
 
+'''
